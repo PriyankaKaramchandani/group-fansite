@@ -7,6 +7,14 @@ ul {
     justify-content: space-around
 }
 
+.additional_header {
+    text-align: center;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    color: palevioletred;
+}
+
 .fun-fact-container {
     display: flex;
     flex-direction: column;
@@ -30,5 +38,14 @@ p {
 
 section {
     margin-bottom: 70px;
+}
+
+.fun_facts_footer {
+    text-align: center;  
+    background-color: navy;
+    color: white;
+    padding: 60px;
+    bottom: 0;
+    width: 100%;
 }
 
