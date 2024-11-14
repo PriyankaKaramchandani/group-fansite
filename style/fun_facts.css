@@ -1,0 +1,13 @@
+p::after {
+    content: "😊";   
+    margin-right: 10px;
+}
+
+li:hover {
+    color: #4CAF50; 
+    cursor: pointer; 
+}
+
+p {
+    text-align: center;
+}

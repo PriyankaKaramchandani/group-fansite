@@ -11,7 +11,7 @@ body {
 
 h1 {
     text-align: center;
-    color: darkslateblue;
+    color: rgb(237, 145, 16);
     text-decoration: underline;
 }
 
@@ -47,6 +47,26 @@ nav {
 
 }
 
-li {
-    text-align: justify;
+ul {
+    list-style-type: none;
+    text-align: center;
 }
+
+li {
+    display: inline-block;
+    margin: 5px;
+    margin-right: 20px;
+}
+
+footer {
+    text-align: center;  
+    background-color: navy;
+    color: white;
+    padding: 60px;
+}
+
+img {
+    width: 220px;  
+    height: auto;  
+}
+
