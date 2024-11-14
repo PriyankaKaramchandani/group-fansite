@@ -1,28 +1,11 @@
-/* Trying to align content inside <a>: unsuccessful. Have 2 approaches commented out*/
-
-
-/* Approach 1 */
-
-/* li {
-    justify-content: center;
-    align-items: center;
-} */
-
-/* Approach 2 */
-
-/* ul {
-    text-align: center;
+nav {
+    width: 100vw;
 }
 
-li {
-    text-align: center;
+ul {
+    display: flex;
+    justify-content: space-around
 }
-
-a {
-    text-align: center; 
-    display: inline-block; 
-} */
-
 
 .fun-fact-container {
     display: flex;
