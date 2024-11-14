@@ -1,0 +1,20 @@
+.education-container{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}
+
+.ada_image{
+    width: 500px;
+}
+
+.image {
+    align-items: center;
+}
+.description{
+    font-size: 19px;
+    line-height: 30px;
+    color: darkblue
+}
+nav{
+    text-align: center;
+}
