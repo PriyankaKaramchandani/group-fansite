@@ -1,0 +1,20 @@
+section {
+    display: flex;
+    flex-direction: row;
+    align-content: center;
+    flex-wrap: wrap;
+    width: 1500px;
+    
+}
+
+nav {
+    text-align: center;
+}
+
+ul {
+    display: flex;
+    flex-direction: row;
+    padding: 0px;
+    width: 300px;
+    justify-content: center;
+}
