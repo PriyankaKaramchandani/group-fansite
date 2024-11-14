@@ -2,13 +2,14 @@ section {
     display: flex;
     flex-direction: row;
     align-content: center;
-    flex-wrap: wrap;
-    width: 1500px;
+    flex-wrap: nowrap;
+    width: 1000px;
     
 }
 
 nav {
     text-align: center;
+    padding: 35px;
 }
 
 ul {

@@ -58,12 +58,16 @@ li {
     margin-right: 20px;
 }
 
-footer {
+#footer {
     text-align: center;  
     background-color: navy;
     color: white;
     padding: 60px;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
 }
+
 
 img {
     width: 220px;  
