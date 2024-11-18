@@ -1,12 +1,28 @@
 section {
-    display: flex;
-    flex-direction: row;
-    align-content: center;
-    flex-wrap: wrap;
+    display:grid;
+    grid-template-areas: 'nav_adrian nav_ansel nav_ashley'
+    'nav_kelsey nav_ada nav_mikelle';
     
     
 }
-
+.nav_adrian{
+    grid-area: nav_adrian;
+}
+.nav_ansel{
+    grid-area: nav_ansel;
+}
+.nav_ashley{
+    grid-area: nav_ashley;
+}
+.nav_kelsey{
+    grid-area: nav_kelsey;
+}
+.nav_mikelle{
+    grid-area: nav_mikelle;
+}
+.nav_ada{
+    grid-area: nav_ada;
+}
 nav {
     text-align: center;
     padding: 80px;
