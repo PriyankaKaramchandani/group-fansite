@@ -9,7 +9,7 @@ section {
 
 nav {
     text-align: center;
-    padding: 35px;
+    padding: 80px;
 }
 
 ul {
@@ -18,4 +18,8 @@ ul {
     padding: 0px;
     width: 300px;
     justify-content: center;
+}
+
+.main_page_links{
+    width: 100vw;
 }
