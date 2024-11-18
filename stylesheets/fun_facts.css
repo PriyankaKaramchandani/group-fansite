@@ -9,6 +9,7 @@ ul {
 
 .additional_header {
     text-align: center;
+    font-size: 1.4em;
     display:flex;
     align-items: center;
     justify-content: center;
@@ -30,10 +31,17 @@ img {
 
 h3 {
     text-decoration: underline;
+    font-size: 1.5em;
+    text-align: center;
+    display: block;
+    margin-bottom: 25px;
 }
 
 p {
     margin-bottom: 0.1px;
+    color: blue;
+    font-size: 19px;
+    line-height: 30px;
 }
 
 section {
