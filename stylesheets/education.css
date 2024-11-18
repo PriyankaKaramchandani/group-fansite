@@ -29,3 +29,13 @@ nav{
     margin-bottom: 30px;
     color: yellow;
 }
+
+.education_footer {
+    text-align: center;  
+    background-color: navy;
+    color: white;
+    padding: 60px;
+    bottom: 0;
+    width: 100%;
+}
+
